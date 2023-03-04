@@ -15,13 +15,13 @@ The initial assumption was that petroglyphs are made of distinct symbols, like w
 
 ## Examples
 
-<img src="./github_preview_images/example_images/27915781308.jpg" style="width: 40%;"><img src="./github_preview_images/example_predictions/27915781308.jpg" style="width: 40%;">
+<img src="./github_preview_images/example_images/27915781308.jpg" style="width: 50%;"><img src="./github_preview_images/example_predictions/27915781308.jpg" style="width: 50%;">
 
-<img src="./github_preview_images/example_images/28760741518.jpg" style="width: 40%;"><img src="./github_preview_images/example_predictions/28760741518.jpg" style="width: 40%;">
+<img src="./github_preview_images/example_images/28760741518.jpg" style="width: 50%;"><img src="./github_preview_images/example_predictions/28760741518.jpg" style="width: 50%;">
 
-<img src="./github_preview_images/example_images/30359780592.jpg" style="width: 40%;"><img src="./github_preview_images/example_predictions/30359780592.jpg" style="width: 40%;">
+<img src="./github_preview_images/example_images/30359780592.jpg" style="width: 50%;"><img src="./github_preview_images/example_predictions/30359780592.jpg" style="width: 50%;">
 
-<img src="./github_preview_images/example_images/6183174382.jpg" style="width: 40%;"><img src="./github_preview_images/example_predictions/6183174382.jpg" style="width: 40%;">
+<img src="./github_preview_images/example_images/6183174382.jpg" style="width: 50%;"><img src="./github_preview_images/example_predictions/6183174382.jpg" style="width: 50%;">
 
-<img src="./github_preview_images/example_images/panel.jpg" style="width: 40%;"><img src="./github_preview_images/example_predictions/panel.jpg" style="width: 40%;">
+<img src="./github_preview_images/example_images/panel.jpg" style="width: 50%;"><img src="./github_preview_images/example_predictions/panel.jpg" style="width: 50%;">
 
