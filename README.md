@@ -11,7 +11,7 @@ Used the Flickr API to download images:
 ## Acknowledgment of Bias
 This project is intended only as a learning experience in computer vision, not as an academic work. Several thousand images were downloaded from Flickr, inspected for glyphs, and arbitrarily decided on whether or not to label. Some images showed panels with hundreds of small glyphs; some images showed densely interconnected patterns from which individual glyphs could not be distinguished; many contained isolated dots, lines or splotches; all of which the annotator (me) simply ignored.  
 
-The initial assumption was that petroglyphs are made of distinct symbols, like words, and that each individual symbol was delimited by the surrounding space - thus easily placed within a bounding box. But this assumption didn't hold up, so instead I settled for just labeling images with a low number of clearly defined symbols. I hope this
+The initial assumption was that petroglyphs are made of distinct symbols, like words, and that each individual symbol was delimited by the surrounding space - thus easily placed within a bounding box. But this assumption didn't hold up, so instead I settled for just labeling images with a low number of clearly defined symbols.
 
 ## Examples
 
